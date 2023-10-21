@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Medeni</h1>
-<h3 align="center">Software Engineer with a keen interest in mobile and web development.</h3>
+<h3 align="center">Software Engineer with a keen interest web development.</h3>
 
 - 🔭 I’m currently working on **Java**
 
 - 🌱 I’m currently learning ** Java , C# ,  Python **
 
-- 👯 I’m looking to collaborate on **Java , C# **
+- 👯 I’m looking to collaborate on **Java , C# , CSS , HTML , JavaScript , MySQL , Python ,React, Vue.js**
 
 - 📫 How to reach me **medeniabax@gmail.com**
 
