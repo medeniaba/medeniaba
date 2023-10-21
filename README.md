@@ -1,14 +1,14 @@
-![MasterHead](https://wallpapers.com/images/hd/funny-coding-t6atzna90ucn5jmr.jpg)
+![MasterHead]([https://wallpapers.com/images/hd/funny-coding-t6atzna90ucn5jmr.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHuK4VQQUISkgbxYJIfUhWAfZJhIFsLesn-xFXQu4mLmlA4pEsIA3dUllAvQ4lNrWN82U&usqp=CAU))
 
 
 <h1 align="center">Hi 👋, I'm Medeni</h1>
 <h3 align="center">Software Engineer with a keen interest in mobile and web development.</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Python , Java , C**
+- 🌱 I’m currently learning ** Java , C# ,  Python **
 
-- 👯 I’m looking to collaborate on **Python**
+- 👯 I’m looking to collaborate on **Java , C# **
 
 - 📫 How to reach me **medeniabax@gmail.com**
 
