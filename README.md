@@ -19,15 +19,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/fundamentals/program-structure/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/52045ed9d775b4ac9286e51c28b878edca6bb1750815b423c8d06c7976040ab7/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f6373686172702e737667" alt="java" width = "40" height = "40" /> </a>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/fundamentals/program-structure/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/52045ed9d775b4ac9286e51c28b878edca6bb1750815b423c8d06c7976040ab7/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f6373686172702e737667" alt="java" width = "40" height = "40" />  </a>
 
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medeniaba&show_icons=true&locale=en&layout=compact" alt="medeniaba" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medeniaba&show_icons=true&locale=en" alt="medeniaba" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medeniaba&" alt="medeniaba" /></p>
+
+
 
 
