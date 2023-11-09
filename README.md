@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ** Java , C# ,  Python **
 
-- 👯 I’m looking to collaborate on **Java , C# , CSS , HTML , JavaScript , MySQL , Python ,React**
+- 👯 I’m looking to collaborate on **Java , C# , CSS , HTML , JavaScript , SQL , Python ,React**
 
 - 📫 How to reach me **medeniabax@gmail.com**
 
