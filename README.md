@@ -1,5 +1,3 @@
-![MasterHead](https://scontent.fesb4-1.fna.fbcdn.net/v/t1.18169-9/11265629_1593301367603259_3696151639266761089_n.png?_nc_cat=110&ccb=1-7&_nc_sid=2be8e3&_nc_ohc=OP1v4Q3a8G0AX_exsZC&_nc_ht=scontent.fesb4-1.fna&cb_e2o_trans=t&oh=00_AfCcFsFLH3UqgVOWrG9dkg13SdKGyxUmad_1exdqjWQ7ug&oe=655BABF6)
-
 
 <h1 align="center">Hi 👋, I'm Medeni</h1>
 <h3 align="center">Software Engineer with a keen interest web development.</h3>
